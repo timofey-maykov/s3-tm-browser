@@ -1,5 +1,8 @@
 # S3 TM Browser
 
+Русская версия: [README.md](README.md)  
+中文版本: [README.zh.md](README.zh.md)
+
 S3 TM Browser is a cross platform desktop application for S3 object storage.
 It works with AWS S3 and S3 compatible services.
 Supported platforms are macOS, Windows, and Linux.
@@ -27,18 +30,21 @@ Supported platforms are macOS, Windows, and Linux.
 - Metadata and tag editing
 - Object and bucket ACL management
 - Bulk ACL actions for selected objects
+- Bucket Object Lock management, object retention, and legal hold
 - Presigned URL generation
 - Virtual host and path style static links
 - Object preview for supported content
 - Bucket settings management
-- Bucket Policy, CORS, Lifecycle, Encryption, Logging, and Versioning
+- Bucket Policy, CORS, Lifecycle, Encryption, Logging, Versioning, and Object Lock
 - Public Access Block controls
 - Dual pane Commander mode
 - Copy and sync between panes
 - Diff view for two S3 panes
 - Hotkeys for common operations
+- Global and per profile proxy settings (HTTP and env auto mode)
 - App options for queue, retries, bandwidth, and logs
 - Diagnostics snapshot for support cases
+- UI available in Russian, English, and Chinese
 - S3 Browser import on Windows
 
 ## Audience
@@ -49,6 +55,7 @@ that need a clear desktop tool for daily S3 operations.
 ## Support the project
 
 - Boosty: https://boosty.to/itnitro
+- WeChat: `itnitro` (QR: [screenshots/wechat-itnitro-qr.png](screenshots/wechat-itnitro-qr.png))
 - USDT (TON): `UQBZhwBuZCgQOtrgRGMu4PKiiOcf9dTKxRpapZt1oDn0m3yH`
 - USDT/ETH (ERC-20): `0xeb05803030afB64C903C7BfB79d18957efD6bcCd`
 - SOL (Solana): `GcKxgUeSfKnsPL9iEaYKJArosfYKMtE4W5wVDdHrRVTu`
